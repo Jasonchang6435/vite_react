@@ -1,3 +1,3 @@
 # vite_react
 
-# a vite react MVP CLI test
+## a vite react MVP CLI test
